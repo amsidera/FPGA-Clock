@@ -1,0 +1,21 @@
+Running: C:\Xilinx\13.2\ISE_DS\ISE\bin\nt64\unwrapped\fuse.exe -intstyle ise -incremental -o C:/Users/Tmicro 3/Desktop/ESTE!!/ESTE!!/tb_modo_hora_isim_beh.exe -prj C:/Users/Tmicro 3/Desktop/ESTE!!/ESTE!!/tb_modo_hora_beh.prj work.tb_modo_hora 
+ISim O.61xd (signature 0x1cce1bb2)
+Number of CPUs detected in this system: 4
+Turning on mult-threading, number of parallel sub-compilation jobs: 8 
+Determining compilation order of HDL files
+Parsing VHDL file "C:/Users/Tmicro 3/Desktop/ESTE!!/ESTE!!/modo_hora.vhd" into library work
+Parsing VHDL file "C:/Users/Tmicro 3/Desktop/ESTE!!/ESTE!!/tb_modo_hora.vhd" into library work
+Starting static elaboration
+Completed static elaboration
+Compiling package standard
+Compiling package std_logic_1164
+Compiling package std_logic_arith
+Compiling package std_logic_unsigned
+Compiling architecture behavioral of entity modohora [modohora_default]
+Compiling architecture behavior of entity tb_modo_hora
+Time Resolution for simulation is 1ps.
+Waiting for 1 sub-compilation(s) to finish...
+Compiled 7 VHDL Units
+Built simulation executable C:/Users/Tmicro 3/Desktop/ESTE!!/ESTE!!/tb_modo_hora_isim_beh.exe
+Fuse Memory Usage: 24608 KB
+Fuse CPU Usage: 217 ms

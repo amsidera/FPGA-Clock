@@ -1,0 +1,8 @@
+Release 13.2 Drc O.61xd (nt64)
+Copyright (c) 1995-2011 Xilinx, Inc.  All rights reserved.
+
+Fri Jan 23 17:53:06 2015
+
+drc -z Modos.ncd Modos.pcf
+
+DRC detected 0 errors and 0 warnings.

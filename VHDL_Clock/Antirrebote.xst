@@ -1,0 +1,5 @@
+set -tmpdir "C:/Users/Tmicro 3/Desktop/casio/hds/xst/projnav.tmp"
+set -xsthdpdir "C:/Users/Tmicro 3/Desktop/casio/hds/xst"
+elaborate
+-ifn Antirrebote.prj
+-ifmt mixed

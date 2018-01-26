@@ -1,0 +1,5 @@
+set -tmpdir "C:/Users/Tmicro 3/Desktop/ESTE!!/ESTE!!/xst/projnav.tmp"
+set -xsthdpdir "C:/Users/Tmicro 3/Desktop/ESTE!!/ESTE!!/xst"
+elaborate
+-ifn modohora.prj
+-ifmt mixed

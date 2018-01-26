@@ -1,0 +1,36 @@
+NET "clk" LOC="B8";
+//NET "reset" LOC="G12";
+
+NET "display<0>" LOC = "K14"; 
+NET "display<1>" LOC = "M13"; 
+NET "display<2>" LOC = "J12"; 
+NET "display<3>" LOC = "F12";
+
+NET "segmentos<0>" LOC = "L14"; 
+NET "segmentos<1>" LOC = "H12"; 
+NET "segmentos<2>" LOC = "N14"; 
+NET "segmentos<3>" LOC = "N11"; 
+NET "segmentos<4>" LOC = "P12"; 
+NET "segmentos<5>" LOC = "L13"; 
+NET "segmentos<6>" LOC = "M12";
+NET "dp" LOC = "N13";
+
+NET "led_hora" LOC="G1";
+NET "led_alarma" LOC="P4";
+NET "led_crono" LOC="N4";
+NET "led_eggtimer" LOC="N5";
+NET "led_ajuste" LOC="P6";
+NET "led_horafecha" LOC="P7";
+NET "led_alarmaon" LOC="M11";
+NET "led_alarmasonando" LOC="M5";
+
+
+
+NET "btnuno" LOC="A7";
+NET "btndos" LOC="M4";
+NET "btntres" LOC="C11";
+NET "btncuatro" LOC="G12";
+
+NET "interruptor_reset" LOC="N3";
+NET "interruptor_izq" LOC="E2";
+NET "interruptor_der" LOC="F3";

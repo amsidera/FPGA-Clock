@@ -1,0 +1,2 @@
+vhdl work "modo_hora.vhd"
+vhdl work "tb_modo_hora.vhd"

@@ -1,0 +1,123 @@
+V3 86
+FL "C:/Users/Tmicro 1/Desktop/hds/Antirrebote.vhd" 2014/12/10.10:56:16 O.61xd
+FL "C:/Users/Tmicro 1/Desktop/hds/crono.vhd" 2014/12/10.11:09:48 O.61xd
+FL "C:/Users/Tmicro 1/Desktop/hds/eggtimer.vhd" 2014/12/12.16:16:56 O.61xd
+FL "C:/Users/Tmicro 1/Desktop/hds/modo.vhd" 2014/12/12.15:35:48 O.61xd
+EN work/modo 1418397431 FL "C:/Users/Tmicro 1/Desktop/hds/modo.vhd" \
+      PB ieee/std_logic_1164 1308643377 PB ieee/std_logic_arith 1308643378 \
+      PB ieee/STD_LOGIC_UNSIGNED 1308643379 PB ieee/NUMERIC_STD 1308643378
+AR work/modo/Behavioral 1418397432 \
+      FL "C:/Users/Tmicro 1/Desktop/hds/modo.vhd" EN work/modo 1418397431
+FL "C:/Users/Tmicro 1/Desktop/hds/modo_ajuste.vhd" 2014/12/12.15:29:37 O.61xd
+FL "C:/Users/Tmicro 1/Desktop/hds/modo_ajustehora.vhd" 2014/12/12.14:08:36 O.61xd
+FL "C:/Users/Tmicro 1/Desktop/hds/modo_hora.vhd" 2014/12/12.15:38:27 O.61xd
+EN work/modo_hora 1418395574 FL "C:/Users/Tmicro 1/Desktop/hds/modo_hora.vhd" \
+      PB ieee/std_logic_1164 1308643377
+AR work/modo_hora/Behavioral 1418395575 \
+      FL "C:/Users/Tmicro 1/Desktop/hds/modo_hora.vhd" EN work/modo_hora 1418395574
+FL "C:/Users/Tmicro 1/Desktop/hds/pulsos.vhd" 2014/12/10.10:22:16 O.61xd
+FL "C:/Users/Tmicro 1/Desktop/hds/Top_Casio.vhd" 2014/12/12.16:09:39 O.61xd
+FL "C:/Users/Tmicro 1/Desktop/hds/velocidad.vhd" 2014/12/12.15:00:00 O.61xd
+FL "C:/Users/Tmicro 1/Desktop/hds/Visualiza_Displays.vhd" 2014/12/10.10:20:02 O.61xd
+FL "C:/Users/Tmicro 3/Desktop/casio/hds/Antirrebote.vhd" 2014/12/10.10:56:15 O.61xd
+FL "C:/Users/Tmicro 3/Desktop/casio/hds/crono.vhd" 2014/12/10.11:09:47 O.61xd
+FL "C:/Users/Tmicro 3/Desktop/casio/hds/modo.vhd" 2014/12/10.10:22:59 O.61xd
+FL "C:/Users/Tmicro 3/Desktop/casio/hds/pulsos.vhd" 2014/12/10.10:22:14 O.61xd
+FL "C:/Users/Tmicro 3/Desktop/casio/hds/Top_Casio.vhd" 2014/12/10.11:05:50 O.61xd
+FL "C:/Users/Tmicro 3/Desktop/casio/hds/velocidad.vhd" 2014/12/10.10:22:14 O.61xd
+FL "C:/Users/Tmicro 3/Desktop/casio/hds/Visualiza_Displays.vhd" 2014/12/10.10:20:01 O.61xd
+FL "C:/Users/Tmicro 3/Desktop/ESTE!!/ESTE!!/Antirrebote.vhd" 2015/01/14.14:44:44 O.61xd
+FL "C:/Users/Tmicro 3/Desktop/ESTE!!/ESTE!!/crono.vhd" 2015/01/15.18:20:38 O.61xd
+FL "C:/Users/Tmicro 3/Desktop/ESTE!!/ESTE!!/eggtimer.vhd" 2015/01/15.15:30:22 O.61xd
+FL "C:/Users/Tmicro 3/Desktop/ESTE!!/ESTE!!/modo_ajuste.vhd" 2015/01/15.14:35:18 O.61xd
+FL "C:/Users/Tmicro 3/Desktop/ESTE!!/ESTE!!/modo_ajustehora.vhd" 2015/01/15.14:35:20 O.61xd
+FL "C:/Users/Tmicro 3/Desktop/ESTE!!/ESTE!!/modo_alarma.vhd" 2015/01/15.16:15:14 O.61xd
+FL "C:/Users/Tmicro 3/Desktop/ESTE!!/ESTE!!/modo_hora.vhd" 2015/01/15.14:30:01 O.61xd
+FL "C:/Users/Tmicro 3/Desktop/ESTE!!/ESTE!!/pulsos.vhd" 2015/01/14.14:43:42 O.61xd
+FL "C:/Users/Tmicro 3/Desktop/ESTE!!/ESTE!!/Top_Casio.vhd" 2015/01/15.18:40:24 O.61xd
+FL "C:/Users/Tmicro 3/Desktop/ESTE!!/ESTE!!/velocidad.vhd" 2015/01/14.14:46:00 O.61xd
+FL "C:/Users/Tmicro 3/Desktop/ESTE!!/ESTE!!/Visualiza_Displays.vhd" 2015/01/15.18:21:56 O.61xd
+FL "C:/Users/Tmicro 4/Desktop/ESTE!!/Antirrebote.vhd" 2015/01/14.14:44:44 O.61xd
+EN work/Antirrebote 1422031955 \
+      FL "C:/Users/Tmicro 4/Desktop/ESTE!!/Antirrebote.vhd" \
+      PB ieee/std_logic_1164 1308643377 PB ieee/std_logic_arith 1308643378 \
+      PB ieee/STD_LOGIC_UNSIGNED 1308643379 PB ieee/NUMERIC_STD 1308643378
+AR work/Antirrebote/Behavioral 1422031956 \
+      FL "C:/Users/Tmicro 4/Desktop/ESTE!!/Antirrebote.vhd" EN work/Antirrebote 1422031955
+FL "C:/Users/Tmicro 4/Desktop/ESTE!!/crono.vhd" 2015/01/15.18:20:38 O.61xd
+EN work/cronometro 1422031961 FL "C:/Users/Tmicro 4/Desktop/ESTE!!/crono.vhd" \
+      PB ieee/std_logic_1164 1308643377 PB ieee/std_logic_arith 1308643378 \
+      PB ieee/STD_LOGIC_UNSIGNED 1308643379 PB ieee/NUMERIC_STD 1308643378
+AR work/cronometro/Behavioral 1422031962 \
+      FL "C:/Users/Tmicro 4/Desktop/ESTE!!/crono.vhd" EN work/cronometro 1422031961
+FL "C:/Users/Tmicro 4/Desktop/ESTE!!/eggtimer.vhd" 2015/01/15.15:30:22 O.61xd
+EN work/egg_timer 1422031973 FL "C:/Users/Tmicro 4/Desktop/ESTE!!/eggtimer.vhd" \
+      PB ieee/std_logic_1164 1308643377 PB ieee/std_logic_arith 1308643378 \
+      PB ieee/STD_LOGIC_UNSIGNED 1308643379 PB ieee/NUMERIC_STD 1308643378
+AR work/egg_timer/Behavioral 1422031974 \
+      FL "C:/Users/Tmicro 4/Desktop/ESTE!!/eggtimer.vhd" EN work/egg_timer 1422031973
+FL "C:/Users/Tmicro 4/Desktop/ESTE!!/modo_ajuste.vhd" 2015/01/15.14:35:18 O.61xd
+EN work/modo_ajustefecha 1422031965 \
+      FL "C:/Users/Tmicro 4/Desktop/ESTE!!/modo_ajuste.vhd" \
+      PB ieee/std_logic_1164 1308643377 PB ieee/std_logic_arith 1308643378 \
+      PB ieee/STD_LOGIC_UNSIGNED 1308643379
+AR work/modo_ajustefecha/Behavioral 1422031966 \
+      FL "C:/Users/Tmicro 4/Desktop/ESTE!!/modo_ajuste.vhd" \
+      EN work/modo_ajustefecha 1422031965
+FL "C:/Users/Tmicro 4/Desktop/ESTE!!/modo_ajustehora.vhd" 2015/01/15.14:35:20 O.61xd
+EN work/modo_ajustehora 1422031967 \
+      FL "C:/Users/Tmicro 4/Desktop/ESTE!!/modo_ajustehora.vhd" \
+      PB ieee/std_logic_1164 1308643377 PB ieee/std_logic_arith 1308643378 \
+      PB ieee/STD_LOGIC_UNSIGNED 1308643379 PB ieee/NUMERIC_STD 1308643378
+AR work/modo_ajustehora/Behavioral 1422031968 \
+      FL "C:/Users/Tmicro 4/Desktop/ESTE!!/modo_ajustehora.vhd" \
+      EN work/modo_ajustehora 1422031967
+FL "C:/Users/Tmicro 4/Desktop/ESTE!!/modo_alarma.vhd" 2015/01/15.16:15:14 O.61xd
+EN work/modo_alarm 1422031971 \
+      FL "C:/Users/Tmicro 4/Desktop/ESTE!!/modo_alarma.vhd" \
+      PB ieee/std_logic_1164 1308643377 PB ieee/std_logic_arith 1308643378 \
+      PB ieee/STD_LOGIC_UNSIGNED 1308643379 PB ieee/NUMERIC_STD 1308643378
+AR work/modo_alarm/Behavioral 1422031972 \
+      FL "C:/Users/Tmicro 4/Desktop/ESTE!!/modo_alarma.vhd" EN work/modo_alarm 1422031971
+FL "C:/Users/Tmicro 4/Desktop/ESTE!!/modo_hora.vhd" 2015/01/15.14:30:01 O.61xd
+EN work/modohora 1422031969 FL "C:/Users/Tmicro 4/Desktop/ESTE!!/modo_hora.vhd" \
+      PB ieee/std_logic_1164 1308643377 PB ieee/std_logic_arith 1308643378 \
+      PB ieee/STD_LOGIC_UNSIGNED 1308643379
+AR work/modohora/Behavioral 1422031970 \
+      FL "C:/Users/Tmicro 4/Desktop/ESTE!!/modo_hora.vhd" EN work/modohora 1422031969
+FL "C:/Users/Tmicro 4/Desktop/ESTE!!/pulsos.vhd" 2015/01/14.14:43:42 O.61xd
+EN work/pulsos 1422031959 FL "C:/Users/Tmicro 4/Desktop/ESTE!!/pulsos.vhd" \
+      PB ieee/std_logic_1164 1308643377
+AR work/pulsos/Behavioral 1422031960 \
+      FL "C:/Users/Tmicro 4/Desktop/ESTE!!/pulsos.vhd" EN work/pulsos 1422031959
+FL "C:/Users/Tmicro 4/Desktop/ESTE!!/Top_Casio.vhd" 2015/01/23.17:52:32 O.61xd
+EN work/Modos 1422031975 FL "C:/Users/Tmicro 4/Desktop/ESTE!!/Top_Casio.vhd" \
+      PB ieee/std_logic_1164 1308643377 PB ieee/std_logic_arith 1308643378 \
+      PB ieee/STD_LOGIC_UNSIGNED 1308643379
+AR work/Modos/Behavioral 1422031976 \
+      FL "C:/Users/Tmicro 4/Desktop/ESTE!!/Top_Casio.vhd" EN work/Modos 1422031975 \
+      CP Antirrebote CP velocidad CP pulsos CP cronometro CP Visualiza_Displays \
+      CP modo_ajustefecha CP modo_ajustehora CP modohora CP modo_alarm CP egg_timer
+FL "C:/Users/Tmicro 4/Desktop/ESTE!!/velocidad.vhd" 2015/01/14.14:46:00 O.61xd
+EN work/velocidad 1422031957 FL "C:/Users/Tmicro 4/Desktop/ESTE!!/velocidad.vhd" \
+      PB ieee/std_logic_1164 1308643377 PB ieee/std_logic_arith 1308643378 \
+      PB ieee/STD_LOGIC_UNSIGNED 1308643379 PB ieee/NUMERIC_STD 1308643378
+AR work/velocidad/Behavioral 1422031958 \
+      FL "C:/Users/Tmicro 4/Desktop/ESTE!!/velocidad.vhd" EN work/velocidad 1422031957
+FL "C:/Users/Tmicro 4/Desktop/ESTE!!/Visualiza_Displays.vhd" 2015/01/15.18:21:56 O.61xd
+EN work/Visualiza_Displays 1422031963 \
+      FL "C:/Users/Tmicro 4/Desktop/ESTE!!/Visualiza_Displays.vhd" \
+      PB ieee/std_logic_1164 1308643377
+AR work/Visualiza_Displays/Behavioral 1422031964 \
+      FL "C:/Users/Tmicro 4/Desktop/ESTE!!/Visualiza_Displays.vhd" \
+      EN work/Visualiza_Displays 1422031963
+FL "C:/Users/Tmicro 6/Desktop/ESTE!!/Antirrebote.vhd" 2014/12/10.10:56:16 O.61xd
+FL "C:/Users/Tmicro 6/Desktop/ESTE!!/crono.vhd" 2015/01/12.11:57:41 O.61xd
+FL "C:/Users/Tmicro 6/Desktop/ESTE!!/eggtimer.vhd" 2015/01/12.13:41:01 O.61xd
+FL "C:/Users/Tmicro 6/Desktop/ESTE!!/modo_ajuste.vhd" 2014/12/12.15:29:37 O.61xd
+FL "C:/Users/Tmicro 6/Desktop/ESTE!!/modo_ajustehora.vhd" 2015/01/12.12:44:44 O.61xd
+FL "C:/Users/Tmicro 6/Desktop/ESTE!!/modo_hora.vhd" 2015/01/12.13:22:20 O.61xd
+FL "C:/Users/Tmicro 6/Desktop/ESTE!!/pulsos.vhd" 2014/12/10.10:22:16 O.61xd
+FL "C:/Users/Tmicro 6/Desktop/ESTE!!/Top_Casio.vhd" 2015/01/12.13:59:02 O.61xd
+FL "C:/Users/Tmicro 6/Desktop/ESTE!!/velocidad.vhd" 2014/12/12.15:00:00 O.61xd
+FL "C:/Users/Tmicro 6/Desktop/ESTE!!/Visualiza_Displays.vhd" 2014/12/10.10:20:02 O.61xd

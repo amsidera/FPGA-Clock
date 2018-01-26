@@ -1,0 +1,1 @@
+-intstyle "ise" -incremental -o "C:/Users/Tmicro 3/Desktop/ESTE!!/ESTE!!/tb_modo_hora_isim_beh.exe" -prj "C:/Users/Tmicro 3/Desktop/ESTE!!/ESTE!!/tb_modo_hora_beh.prj" "work.tb_modo_hora" 

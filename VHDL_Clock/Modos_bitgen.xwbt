@@ -1,0 +1,8 @@
+INTSTYLE=ise
+INFILE=C:\Users\Tmicro 4\Desktop\ESTE!!\Modos.ncd
+OUTFILE=C:\Users\Tmicro 4\Desktop\ESTE!!\Modos.bit
+FAMILY=Spartan3E
+PART=xc3s250e-4cp132
+WORKINGDIR=C:\Users\Tmicro 4\Desktop\ESTE!!
+LICENSE=ISE
+USER_INFO=174166713_174166714_210574052_603

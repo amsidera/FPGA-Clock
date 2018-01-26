@@ -1,0 +1,28 @@
+Command line:
+   modo_ajustehora_test1_isim_beh.exe
+     -simmode  gui
+     -simrunnum  0
+     -socket  51241
+
+Fri Dec 12 16:08:05 2014
+
+
+ Elaboration Time: 0.0312 sec
+
+ Current Memory Usage: 666.763 Meg
+
+ Total Signals          : 20
+ Total Nets             : 36
+ Total Signal Drivers   : 12
+ Total Blocks           : 6
+ Total Primitive Blocks : 5
+ Total Processes        : 7
+ Total Traceable Variables  : 16
+ Total Scalar Nets and Variables : 538
+
+ Total Simulation Time: 0.0312 sec
+
+ Current Memory Usage: 981.348 Meg
+
+Fri Dec 12 16:08:44 2014
+

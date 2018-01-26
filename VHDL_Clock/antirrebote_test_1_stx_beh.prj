@@ -1,0 +1,2 @@
+vhdl isim_temp "Antirrebote.vhd"
+vhdl isim_temp "antirrebote_test_1.vhd"

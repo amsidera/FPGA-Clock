@@ -1,0 +1,28 @@
+Command line:
+   modo_ajustefecha_test1_isim_beh.exe
+     -simmode  gui
+     -simrunnum  0
+     -socket  51236
+
+Fri Dec 12 16:06:16 2014
+
+
+ Elaboration Time: 0.0312 sec
+
+ Current Memory Usage: 666.665 Meg
+
+ Total Signals          : 21
+ Total Nets             : 38
+ Total Signal Drivers   : 13
+ Total Blocks           : 5
+ Total Primitive Blocks : 4
+ Total Processes        : 7
+ Total Traceable Variables  : 11
+ Total Scalar Nets and Variables : 417
+
+ Total Simulation Time: 0.0468 sec
+
+ Current Memory Usage: 981.25 Meg
+
+Fri Dec 12 16:06:58 2014
+

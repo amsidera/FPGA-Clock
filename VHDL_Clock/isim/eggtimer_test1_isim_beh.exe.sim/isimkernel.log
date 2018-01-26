@@ -1,0 +1,28 @@
+Command line:
+   eggtimer_test1_isim_beh.exe
+     -simmode  gui
+     -simrunnum  0
+     -socket  51157
+
+Fri Dec 12 16:03:34 2014
+
+
+ Elaboration Time: 0.0468 sec
+
+ Current Memory Usage: 666.771 Meg
+
+ Total Signals          : 27
+ Total Nets             : 40
+ Total Signal Drivers   : 15
+ Total Blocks           : 6
+ Total Primitive Blocks : 5
+ Total Processes        : 7
+ Total Traceable Variables  : 16
+ Total Scalar Nets and Variables : 542
+
+ Total Simulation Time: 0.0624 sec
+
+ Current Memory Usage: 666.776 Meg
+
+Fri Dec 12 16:03:48 2014
+
